@@ -17,6 +17,8 @@ Deprecated
 Fixed
 -----
 
+- Fixed a typo that prevented including the UEFI shell for UEFI architectures other than x64.
+
 Removed
 -------
 
